@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+nav {
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #333;
+  text-decoration: none;
+  padding: 5px;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+img {
+  border-radius:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  text-align: center;
+}
+#college{
+  text-align: center;
+}
+
+h2:hover{
+  color: #0E2954;
+}
+
+#intro:hover{
+  text-decoration: underline;
+}
+h1#MyName:hover {
+  color:#00DFA2;
+}
+
+form{
+  border: 10px;
+}
+#id{
+  margin: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
